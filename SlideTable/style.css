@@ -1,0 +1,12 @@
+/* Inizio stili Tabella Slide con effetto fade */
+
+.slide_table .title a {display: block; float: left; text-align: left;}
+input#orologio {display: block; float: right; height: auto; padding: 0; overflow: visible; background: none; border: none; text-align: right}
+.slide_table {width: 100%}
+.slide_table .mback {cursor: pointer}
+.slide_table .title {font-size: 11px}
+.slide_table .title a {margin-right: 15px; }
+.slide_table .credits {float:right; text-align:right}
+input#orologio {font-weight: normal;}
+
+/* Fine stili Tabella Slide con effetto fade */
